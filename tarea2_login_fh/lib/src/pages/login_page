@@ -73,7 +73,7 @@ class LoginPage extends StatelessWidget {
                       final snackBar = SnackBar(
                         content: const Text('Correo o contraseña incorrescta. Intente de nuevo.'),
                         action: SnackBarAction(
-                          label: 'Okay',
+                          label: 'Aceptar',
                           onPressed: () {},
                         ),
                       );
